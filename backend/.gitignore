@@ -4,3 +4,4 @@ backend/env/Lib/site-packages/clang/native/libclang.dll
 backend/models/
 models/
 env/
+.env
