@@ -5,3 +5,4 @@ backend/models/
 models/
 env/
 .env
+*.json
